@@ -1,6 +1,8 @@
 SSE Branding
 ============
 
+Information about SSE branding.
+
 Uses
 ----
 This list is, for now, just a collection of ideas for who to write this guide for. However, this is not exhaustive.
