@@ -67,5 +67,5 @@ Typography
 ----------
 
 ### Fonts
-- Futura
-- Century Gothic
+- Futura ([preview](http://commons.wikimedia.org/wiki/File:Futura_Specimen.svg#mediaviewer/File:Futura_Specimen.svg))
+- Century Gothic ([preview](http://en.wikipedia.org/wiki/Century_Gothic#mediaviewer/File:CenturyGothicSpecimen.svg))
