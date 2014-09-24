@@ -21,27 +21,37 @@ Logo Colors
     |S|E|
 
 ### Light Box Logo (Blue Background)
-- left S:    `#C3D5E4`
-- top S:    `#89A7C2`
-- right E:    `#5487AD`
+Letter | Color
+--- | ---
+left S | `#C3D5E4`
+top S | `#89A7C2`
+right E | `#5487AD`
 
 ### Dark Box Logo (Black and White Background)
-- left S:    `#777777`
-- top S:    `#A8C4E0`
-- right E:    `#6699CB`
+Letter | Color
+--- | ---
+left S | `#777777`
+top S | `#A8C4E0`
+right E | `#6699CB`
 
 ### Backgrounds
-- Blue:        `#1E5A8D`
-- Dark Blue:    `#000044`
-- Grey:        `#4C4B4C`
+Type | Color
+--- | ---
+Blue | `#1E5A8D`
+Dark Blue | `#000044`
+Grey | `#4C4B4C`
 
 ### "Society of Software Engineers" Colored (Black and White Background)
-- "Society of":        `#666666`
-- "Software Engineers":    `#0766CC`
+Section | Color
+--- | ---
+"Society of" | `#666666`
+"Software Engineers" | `#0766CC`
 
 ### "Society of Software Engineers" White (Blue Background)
-- "Society of":        `#FFFFFF`
-- "Software Engineers":    `#FFFFFF`
+Section | Color
+--- | ---
+"Society of" | `#FFFFFF`
+"Software Engineers" | `#FFFFFF`
 
 Typography
 ----------
