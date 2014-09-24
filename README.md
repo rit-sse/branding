@@ -1,7 +1,7 @@
 SSE Branding
 ============
 
-Information about SSE branding.
+Information about branding for the Society of Software Engineers.
 
 Uses
 ----
