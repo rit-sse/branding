@@ -45,3 +45,7 @@ Logo Colors
 
 Typography
 ----------
+
+### Fonts
+- Futura
+- Century Gothic
