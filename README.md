@@ -15,6 +15,11 @@ This list is, for now, just a collection of ideas for who to write this guide fo
 Logos
 -----
 
+### Posters
+Logo should be in the lower left, exactly 1/4 inch from the margin. The "Society of Software Engineers" text is optional, but the cube logo itself must be present.
+
+### Other
+
 Logo Colors
 -----------
      <S>
