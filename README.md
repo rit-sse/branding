@@ -66,9 +66,14 @@ Section | Color
 Typography
 ----------
 
-### Fonts
-- Futura ([preview](http://commons.wikimedia.org/wiki/File:Futura_Specimen.svg#mediaviewer/File:Futura_Specimen.svg))
-- Century Gothic ([preview](http://en.wikipedia.org/wiki/Century_Gothic#mediaviewer/File:CenturyGothicSpecimen.svg))
+### Logos
+The "Society of Software Engineers" used as a logo should always be in Century Gothic regular ([preview](http://en.wikipedia.org/wiki/Century_Gothic#mediaviewer/File:CenturyGothicSpecimen.svg)). There should be a line break between "Society of" and "Software Engineers" if possible.
+
+### Headings
+Minion Pro bold
+
+### Body Text
+Lucida Grande regular
 
 Licensing
 ---------
