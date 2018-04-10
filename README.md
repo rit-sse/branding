@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/13719429/38533199-2a96a2da-3c46-11e8-9baf-935491ba035f.png" height="150">
+
 SSE Branding Guidelines
 ============
 
